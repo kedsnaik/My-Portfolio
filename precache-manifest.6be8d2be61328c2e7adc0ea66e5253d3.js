@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2cac2cdbce87e91a0dcadc04512e5a0",
+    "revision": "d7caee056f9c036e369ce8876fa9e871",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "5eb839cad3e5c59f226f",
-    "url": "/portfolio/static/css/main.c997aaff.chunk.css"
+    "revision": "d49b21ff153eac72c539",
+    "url": "/portfolio/static/css/main.8d8d5801.chunk.css"
   },
   {
     "revision": "41806c9fc6c00bd425d0",
     "url": "/portfolio/static/js/2.979701d0.chunk.js"
   },
   {
-    "revision": "5eb839cad3e5c59f226f",
-    "url": "/portfolio/static/js/main.95de92ec.chunk.js"
+    "revision": "d49b21ff153eac72c539",
+    "url": "/portfolio/static/js/main.67d3215b.chunk.js"
   },
   {
     "revision": "0c1e52f393a11816286b",
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/AumPic.5b1da3e6.png"
   },
   {
-    "revision": "edd859005fb375a8bfcf5b079948100e",
-    "url": "/portfolio/static/media/KedLogo.edd85900.png"
+    "revision": "9f161ce3515f300fbb138694ce748cc7",
+    "url": "/portfolio/static/media/KedarNaik.9f161ce3.png"
   }
 ]);
