@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/me/static/css/main.8d8d5801.chunk.css",
-    "main.js": "/me/static/js/main.5b919693.chunk.js",
-    "main.js.map": "/me/static/js/main.5b919693.chunk.js.map",
+    "main.js": "/me/static/js/main.180f70cc.chunk.js",
+    "main.js.map": "/me/static/js/main.180f70cc.chunk.js.map",
     "runtime-main.js": "/me/static/js/runtime-main.7c75365e.js",
     "runtime-main.js.map": "/me/static/js/runtime-main.7c75365e.js.map",
     "static/js/2.979701d0.chunk.js": "/me/static/js/2.979701d0.chunk.js",
     "static/js/2.979701d0.chunk.js.map": "/me/static/js/2.979701d0.chunk.js.map",
     "index.html": "/me/index.html",
-    "precache-manifest.e83507bad3f4ed970081739133d07a4d.js": "/me/precache-manifest.e83507bad3f4ed970081739133d07a4d.js",
+    "precache-manifest.8e2dd1e64f5a24166f4049609726f13b.js": "/me/precache-manifest.8e2dd1e64f5a24166f4049609726f13b.js",
     "service-worker.js": "/me/service-worker.js",
     "static/css/main.8d8d5801.chunk.css.map": "/me/static/css/main.8d8d5801.chunk.css.map",
     "static/media/AumPic.png": "/me/static/media/AumPic.5b1da3e6.png",
-    "static/media/KedarNaik.png": "/me/static/media/KedarNaik.9f161ce3.png"
+    "static/media/ScanCode.png": "/me/static/media/ScanCode.c1165d65.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7c75365e.js",
     "static/js/2.979701d0.chunk.js",
     "static/css/main.8d8d5801.chunk.css",
-    "static/js/main.5b919693.chunk.js"
+    "static/js/main.180f70cc.chunk.js"
   ]
 }
