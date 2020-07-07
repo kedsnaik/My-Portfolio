@@ -1,0 +1,34 @@
+.hello{
+    width : 100%;
+    order : -3;
+}
+.navElem{
+    /* display: block; */
+    font-size:20px;
+    vertical-align: center;
+    text-align : center;
+    background-color : #F8F8FF;
+    width : 100%;
+}
+
+.navback{
+    background-color : #F8F8FF;
+    /* display: none; */
+    transition: opacity 1s ease-out;
+    /* opacity: 0; */
+    /* height: 0; */
+    overflow: hidden;
+}
+.navback.active {
+    opacity: 1;
+    height: auto;
+}
+.elem{
+    background-color : #F8F8FF;
+}
+
+@media only screen and (min-width : 980px){
+    .navback{
+        display: none;
+    }
+}

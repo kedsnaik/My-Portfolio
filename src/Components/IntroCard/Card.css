@@ -1,0 +1,22 @@
+.SocialIcons{
+    width : 100%;
+  }
+
+.ul1 {
+  color: #484848;
+  text-shadow: 1px 1px 1px #ccc;
+  font-size: 1em;
+}
+.li1{
+  padding: 15px;
+  font-size: 30px;
+}
+
+.color123{
+  color : #4a4a4a;
+}
+@media only screen and (max-width:360px){
+  .icon{
+    width : 15px;
+  }
+}

@@ -1,0 +1,74 @@
+.Nav{
+  height: 120px;
+  margin : 0 auto;
+  width : 87%;
+}
+li{
+  display: inline-block;
+}
+.cool-link::after{
+  content: "";
+  display: block;
+  width: 0;
+  height: 3px;
+  background: grey;
+  transition: width .3s;
+}
+.cool-link:hover::after{
+  width: 100%;
+  transition: width .3s;
+}
+.links{
+  display: inline-block;
+  width:70%;
+  font-size: 10px;
+  /* height: 120px; */
+}
+.logo{
+  display: inline-block;
+  width: 30%;
+  height: 120px;
+}
+.NavLinks{
+  float: right;
+  padding-top: 15px;
+  /* padding-right: 90px; */
+  text-decoration: none;
+  position: relative;
+  bottom: 25px;
+  text-emphasis: none;
+  font-size: 30px;
+  color : #484848;
+}
+.svgFile1{
+  /* padding-left: 76px;  */
+  padding-bottom: 11px;
+}
+.backBtn{
+  display: inline-block;
+  position: relative;
+  top : 30px;
+  display: none;
+  cursor: pointer;
+}
+.backBtn:hover{
+  color:black;
+}
+.back{
+  color: white;
+}
+.hamburger{
+  display: none;
+}
+.hamburger:hover{
+  cursor: pointer;
+}
+@media only screen and (max-width:980px){
+  .mainNav{
+    display: none;
+  }
+  .hamburger{
+    display: block;
+    float: right;
+  }
+}
