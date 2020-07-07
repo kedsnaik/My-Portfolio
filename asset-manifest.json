@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1e4e8b2b.chunk.css",
-    "main.js": "/portfolio/static/js/main.23a49502.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.23a49502.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.f1ce0d1b.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f1ce0d1b.js.map",
-    "static/js/2.74858daa.chunk.js": "/portfolio/static/js/2.74858daa.chunk.js",
-    "static/js/2.74858daa.chunk.js.map": "/portfolio/static/js/2.74858daa.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.b5b9a5d3dae8b66fc42ebe08ce014b29.js": "/portfolio/precache-manifest.b5b9a5d3dae8b66fc42ebe08ce014b29.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.1e4e8b2b.chunk.css.map": "/portfolio/static/css/main.1e4e8b2b.chunk.css.map",
-    "static/js/2.74858daa.chunk.js.LICENSE.txt": "/portfolio/static/js/2.74858daa.chunk.js.LICENSE.txt",
-    "static/media/AumPic.png": "/portfolio/static/media/AumPic.5b1da3e6.png",
-    "static/media/MyContact.png": "/portfolio/static/media/MyContact.db0b8046.png"
+    "main.css": "/static/css/main.1e4e8b2b.chunk.css",
+    "main.js": "/static/js/main.e1f42f1d.chunk.js",
+    "main.js.map": "/static/js/main.e1f42f1d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18bbefb9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18bbefb9.js.map",
+    "static/js/2.74858daa.chunk.js": "/static/js/2.74858daa.chunk.js",
+    "static/js/2.74858daa.chunk.js.map": "/static/js/2.74858daa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c4adaf9736e5eefed827a7c34b2a0fcd.js": "/precache-manifest.c4adaf9736e5eefed827a7c34b2a0fcd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1e4e8b2b.chunk.css.map": "/static/css/main.1e4e8b2b.chunk.css.map",
+    "static/js/2.74858daa.chunk.js.LICENSE.txt": "/static/js/2.74858daa.chunk.js.LICENSE.txt",
+    "static/media/AumPic.png": "/static/media/AumPic.5b1da3e6.png",
+    "static/media/MyContact.png": "/static/media/MyContact.db0b8046.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1ce0d1b.js",
+    "static/js/runtime-main.18bbefb9.js",
     "static/js/2.74858daa.chunk.js",
     "static/css/main.1e4e8b2b.chunk.css",
-    "static/js/main.23a49502.chunk.js"
+    "static/js/main.e1f42f1d.chunk.js"
   ]
 }
