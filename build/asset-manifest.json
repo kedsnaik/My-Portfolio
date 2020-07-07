@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.87ff048f.chunk.css",
-    "main.js": "/portfolio/static/js/main.f4a0bc35.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f4a0bc35.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.f1ce0d1b.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f1ce0d1b.js.map",
-    "static/js/2.74858daa.chunk.js": "/portfolio/static/js/2.74858daa.chunk.js",
-    "static/js/2.74858daa.chunk.js.map": "/portfolio/static/js/2.74858daa.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.1c34ec956062d90ee569e3afb0542c76.js": "/portfolio/precache-manifest.1c34ec956062d90ee569e3afb0542c76.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.87ff048f.chunk.css.map": "/portfolio/static/css/main.87ff048f.chunk.css.map",
-    "static/js/2.74858daa.chunk.js.LICENSE.txt": "/portfolio/static/js/2.74858daa.chunk.js.LICENSE.txt",
-    "static/media/AumPic.png": "/portfolio/static/media/AumPic.5b1da3e6.png",
-    "static/media/MyCode.png": "/portfolio/static/media/MyCode.2411fc2f.png"
+    "main.css": "/dev/static/css/main.1e4e8b2b.chunk.css",
+    "main.js": "/dev/static/js/main.d945c5b4.chunk.js",
+    "main.js.map": "/dev/static/js/main.d945c5b4.chunk.js.map",
+    "runtime-main.js": "/dev/static/js/runtime-main.d286a081.js",
+    "runtime-main.js.map": "/dev/static/js/runtime-main.d286a081.js.map",
+    "static/js/2.74858daa.chunk.js": "/dev/static/js/2.74858daa.chunk.js",
+    "static/js/2.74858daa.chunk.js.map": "/dev/static/js/2.74858daa.chunk.js.map",
+    "index.html": "/dev/index.html",
+    "precache-manifest.ff92dea7b08e46022ec872e31a1d3f17.js": "/dev/precache-manifest.ff92dea7b08e46022ec872e31a1d3f17.js",
+    "service-worker.js": "/dev/service-worker.js",
+    "static/css/main.1e4e8b2b.chunk.css.map": "/dev/static/css/main.1e4e8b2b.chunk.css.map",
+    "static/js/2.74858daa.chunk.js.LICENSE.txt": "/dev/static/js/2.74858daa.chunk.js.LICENSE.txt",
+    "static/media/AumPic.png": "/dev/static/media/AumPic.5b1da3e6.png",
+    "static/media/MyContact.png": "/dev/static/media/MyContact.db0b8046.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1ce0d1b.js",
+    "static/js/runtime-main.d286a081.js",
     "static/js/2.74858daa.chunk.js",
-    "static/css/main.87ff048f.chunk.css",
-    "static/js/main.f4a0bc35.chunk.js"
+    "static/css/main.1e4e8b2b.chunk.css",
+    "static/js/main.d945c5b4.chunk.js"
   ]
 }
